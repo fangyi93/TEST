@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/jiaoyi-root/pom.xml" />
+        <option value="$PROJECT_DIR$/jiaoyi-components/pom.xml" />
+        <option value="$PROJECT_DIR$/jiaoyi-root/provider-service1/pom.xml" />
+        <option value="$PROJECT_DIR$/fang-user/pom.xml" />
+        <option value="$PROJECT_DIR$/commonservice/pom.xml" />
+        <option value="$PROJECT_DIR$/commonconfig/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/commonservice/commonservice-config/pom.xml" />
+        <option value="$PROJECT_DIR$/jiaoyi-root/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_10" project-jdk-name="8" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="commonservice-eureka" />
+        <module name="commonservice-hystrix-dashboard" />
+        <module name="commonservice-turbine" />
+        <module name="commonservice-zuul" />
+        <module name="config-client" />
+        <module name="config-server" />
+        <module name="customer-service" />
+        <module name="eureka-service" />
+        <module name="fang-user-client" />
+        <module name="fang-user-controller" />
+        <module name="fang-user-dao" />
+        <module name="fang-user-entity" />
+        <module name="fang-user-service" />
+        <module name="feign-service" />
+        <module name="hystrix-dashboard-service" />
+        <module name="provider-service" />
+        <module name="provider-service (1)" />
+        <module name="zuul-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="commonconfig" target="1.7" />
+      <module name="commonservice" target="1.7" />
+      <module name="commonservice-config" target="1.7" />
+      <module name="commonservice-eureka" target="1.7" />
+      <module name="commonservice-hystrix-dashboard" target="1.7" />
+      <module name="commonservice-turbine" target="1.7" />
+      <module name="commonservice-zuul" target="1.7" />
+      <module name="commservice-config" target="1.7" />
+      <module name="config-client" target="1.7" />
+      <module name="config-server" target="1.7" />
+      <module name="customer-service" target="1.7" />
+      <module name="demo" target="1.7" />
+      <module name="eureka-service" target="1.7" />
+      <module name="fang-user" target="1.7" />
+      <module name="fang-user-client" target="1.7" />
+      <module name="fang-user-controller" target="1.7" />
+      <module name="fang-user-dao" target="1.7" />
+      <module name="fang-user-entity" target="1.7" />
+      <module name="fang-user-service" target="1.7" />
+      <module name="feign-service" target="1.7" />
+      <module name="hystrix-dashboard-service" target="1.7" />
+      <module name="jiaoyi-components" target="1.7" />
+      <module name="jiaoyi-root" target="1.7" />
+      <module name="provider-service" target="1.7" />
+      <module name="provider-service (1)" target="1.7" />
+      <module name="zuul-service" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

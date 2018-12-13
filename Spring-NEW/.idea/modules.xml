@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring-NEW.iml" filepath="$PROJECT_DIR$/.idea/Spring-NEW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonconfig/commonconfig.iml" filepath="$PROJECT_DIR$/commonconfig/commonconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonservice/commonservice.iml" filepath="$PROJECT_DIR$/commonservice/commonservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonservice/commonservice-eureka/commonservice-eureka.iml" filepath="$PROJECT_DIR$/commonservice/commonservice-eureka/commonservice-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonservice/commonservice-hystrix-dashboard/commonservice-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/commonservice/commonservice-hystrix-dashboard/commonservice-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonservice/commonservice-turbine/commonservice-turbine.iml" filepath="$PROJECT_DIR$/commonservice/commonservice-turbine/commonservice-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonservice/commonservice-zuul/commonservice-zuul.iml" filepath="$PROJECT_DIR$/commonservice/commonservice-zuul/commonservice-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonconfig/config-client/config-client.iml" filepath="$PROJECT_DIR$/commonconfig/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonconfig/config-server/config-server.iml" filepath="$PROJECT_DIR$/commonconfig/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiaoyi-root/customer-service/customer-service.iml" filepath="$PROJECT_DIR$/jiaoyi-root/customer-service/customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiaoyi-components/eureka-service/eureka-service.iml" filepath="$PROJECT_DIR$/jiaoyi-components/eureka-service/eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fang-user/fang-user.iml" filepath="$PROJECT_DIR$/fang-user/fang-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fang-user/fang-user-client/fang-user-client.iml" filepath="$PROJECT_DIR$/fang-user/fang-user-client/fang-user-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fang-user/fang-user-controller/fang-user-controller.iml" filepath="$PROJECT_DIR$/fang-user/fang-user-controller/fang-user-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fang-user/fang-user-dao/fang-user-dao.iml" filepath="$PROJECT_DIR$/fang-user/fang-user-dao/fang-user-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fang-user/fang-user-entity/fang-user-entity.iml" filepath="$PROJECT_DIR$/fang-user/fang-user-entity/fang-user-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fang-user/fang-user-service/fang-user-service.iml" filepath="$PROJECT_DIR$/fang-user/fang-user-service/fang-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiaoyi-components/feign-service/feign-service.iml" filepath="$PROJECT_DIR$/jiaoyi-components/feign-service/feign-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiaoyi-components/hystrix-dashboard-service/hystrix-dashboard-service.iml" filepath="$PROJECT_DIR$/jiaoyi-components/hystrix-dashboard-service/hystrix-dashboard-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiaoyi-components/jiaoyi-components.iml" filepath="$PROJECT_DIR$/jiaoyi-components/jiaoyi-components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiaoyi-root/provider-service/provider-service.iml" filepath="$PROJECT_DIR$/jiaoyi-root/provider-service/provider-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiaoyi-root/provider-service1/provider-service (1).iml" filepath="$PROJECT_DIR$/jiaoyi-root/provider-service1/provider-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiaoyi-components/zuul-service/zuul-service.iml" filepath="$PROJECT_DIR$/jiaoyi-components/zuul-service/zuul-service.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BootCloud-master/BootCloud/provider/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BootCloud-master/BootCloud/register/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/commonconfig" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commonconfig/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commonconfig/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commonservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commonservice/commonservice-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commonservice/commonservice-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commonservice/commonservice-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commonservice/commonservice-hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commonservice/commonservice-turbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commonservice/commonservice-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fang-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fang-user/fang-user-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fang-user/fang-user-controller" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fang-user/fang-user-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fang-user/fang-user-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fang-user/fang-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jiaoyi-components" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jiaoyi-components/eureka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jiaoyi-components/feign-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jiaoyi-components/hystrix-dashboard-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jiaoyi-components/zuul-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jiaoyi-root" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jiaoyi-root/customer-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jiaoyi-root/provider-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jiaoyi-root/provider-service1" charset="UTF-8" />
+  </component>
+</project>
